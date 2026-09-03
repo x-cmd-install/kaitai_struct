@@ -1,17 +1,19 @@
 about:
-  description: Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
+  description:
+  |
+    Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
   license: NOASSERTION
   homepage: https://kaitai.io
   head: 95983d0
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-03T05:14:38Z
+  collectedAt: 2026-09-03T22:37:37Z
 timeline:
   created: 2016-02-20
   lastCommit: 2026-07-31
-  lastRelease: ?
+  lastRelease: 
 popularity:
-  star: 4669
+  star: 4671
   watcher: 100
   fork: 209
   release: 0
@@ -20,7 +22,7 @@ popularity:
   issue: 1260
 language:
   Shell: 525
-totalLine: 525
+totalBytes: 525
 recent:
   last30d:
     since: 2026-08-04
