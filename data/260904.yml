@@ -7,7 +7,7 @@ about:
   head: 95983d0
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T20:12:43Z
+  collectedAt: 2026-09-04T20:30:55Z
 timeline:
   created: 2016-02-20
   lastCommit: 2026-07-31
@@ -81,7 +81,7 @@ total:
   commit: 1049
 ---
 path: /home/runner/.x-repo/github.com/kaitai-io/kaitai_struct
-collectedAt: 2026-09-04T20:12:45Z
+collectedAt: 2026-09-04T20:30:55Z
 loc:
   Sh:
     code: 4
