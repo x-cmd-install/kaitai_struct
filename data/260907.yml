@@ -5,7 +5,7 @@ about:
   head: 95983d0
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T06:01:20Z
+  collectedAt: 2026-09-07T18:37:45Z
 timeline:
   created: 2016-02-20
   lastCommit: 2026-07-31
@@ -79,7 +79,7 @@ total:
   commit: 1049
 ---
 path: /home/runner/.x-repo/github.com/kaitai-io/kaitai_struct
-collectedAt: 2026-09-07T06:01:21Z
+collectedAt: 2026-09-07T18:37:46Z
 loc:
   Sh:
     code: 4
@@ -188,7 +188,7 @@ checks:
       - 'Info: all commits (7) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:01:22+00:00
+  collectedAt: 2026-09-07T18:37:46+00:00
   platform:
     darwin/arm64:
       name:  null
