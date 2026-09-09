@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:04:59Z
+  collectedAt: 2026-09-09T20:25:43Z
 timeline:
   created: 2016-02-20
   lastCommit: 2026-07-31
@@ -15,8 +15,8 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 4673
-  watcher: 100
+  star: 4674
+  watcher: 101
   fork: 209
   release: 0
   contributor: 15
@@ -83,7 +83,7 @@ total:
   commit: 1049
 ---
 path: /home/runner/.x-repo/github.com/kaitai-io/kaitai_struct
-collectedAt: 2026-09-09T06:05:00Z
+collectedAt: 2026-09-09T20:25:44Z
 loc:
   Sh:
     code: 4
