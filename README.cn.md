@@ -49,30 +49,12 @@ x install kaitai_struct
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 6 | 0 |
-| last60d | 2026-07-15 | 0 | 2 | 3 | 0 | 12 | 0 |
-| 90d | 2026-06-15 | 0 | 3 | 3 | 0 | 12 | 0 |
-| last180d | 2026-03-17 | 0 | 7 | 3 | 1 | 21 | 0 |
-| 360d | 2025-09-18 | 0 | 7 | 3 | 13 | 39 | 0 |
-| last720d | 2024-09-23 | 0 | 7 | 3 | 35 | 60 | 59 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kaitai_struct) 上共有 **109** 个发行版报告此项目。**38** 个 ✅ 已是最新上游版本，**70** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.11` | ✅ latest |
-| Debian 14 | `0.11` | ✅ latest |
-| Debian 13 | `0.10` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.11` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.10` | ⚠️ outdated |
-| Arch | `0.11` | ✅ latest |
-| Homebrew | `0.11` | ✅ latest |
-| Nix unstable | `0.11` | ✅ latest |
-| Void | `0.10` | ⚠️ outdated |
-| Alpine edge | `0.10` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.11` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 6 | 0 |
+| last60d | 2026-07-16 | 0 | 2 | 3 | 0 | 10 | 2 |
+| 90d | 2026-06-16 | 0 | 3 | 3 | 0 | 12 | 3 |
+| last180d | 2026-03-18 | 0 | 7 | 3 | 1 | 21 | 15 |
+| 360d | 2025-09-19 | 0 | 7 | 3 | 13 | 39 | 36 |
+| last720d | 2024-09-24 | 0 | 7 | 3 | 35 | 60 | 59 |
 
 ## 改进这些数据
 
@@ -83,4 +65,4 @@ kaitai_struct 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:11:32Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:32:25Z._
