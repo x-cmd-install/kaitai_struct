@@ -190,3 +190,4 @@ checks:
     reason: SAST tool is run on all commits
     details:
       - 'Info: all commits (7) are checked with a SAST tool'
+---
