@@ -4,7 +4,7 @@
 
 Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
 
-![kaitai_struct](https://repo.x-cmd.io/kaitai_struct.svg)
+[![x-cmd/install — kaitai_struct Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kaitai_struct.svg)](https://x-cmd.com/install/kaitai_struct)
 
 ## Install
 
@@ -49,12 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 6 | 0 |
-| last60d | 2026-07-20 | 0 | 2 | 3 | 0 | 9 | 2 |
-| 90d | 2026-06-20 | 0 | 3 | 3 | 0 | 12 | 3 |
-| last180d | 2026-03-22 | 0 | 7 | 3 | 1 | 21 | 15 |
-| 360d | 2025-09-23 | 0 | 7 | 3 | 13 | 39 | 36 |
-| last720d | 2024-09-28 | 0 | 7 | 3 | 35 | 59 | 58 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 6 | 0 |
+| last60d | 2026-07-22 | 0 | 2 | 3 | 0 | 8 | 2 |
+| 90d | 2026-06-22 | 0 | 3 | 3 | 0 | 12 | 3 |
+| last180d | 2026-03-24 | 0 | 7 | 3 | 1 | 21 | 15 |
+| 360d | 2025-09-25 | 0 | 7 | 3 | 13 | 39 | 35 |
+| last720d | 2024-09-30 | 0 | 7 | 3 | 35 | 59 | 57 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:23:40Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:13:17Z._
