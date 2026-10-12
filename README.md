@@ -39,22 +39,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,697 · **Forks**: 210 · **Open issues**: 1,262 · **Contributors**: 15
+- **Stars**: 4,699 · **Forks**: 210 · **Open issues**: 1,262 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 17 · **Open PRs**: 8 · **Closed issues**: 739 · **Open issues**: 523 · **Commits**: 1049
+- **Releases**: 0 · **Merged PRs**: 18 · **Open PRs**: 7 · **Closed issues**: 740 · **Open issues**: 522 · **Commits**: 1050
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 2 | 0 | 7 | 0 |
-| 90d | 2026-07-13 | 0 | 2 | 3 | 0 | 13 | 3 |
-| last180d | 2026-04-14 | 0 | 4 | 3 | 0 | 20 | 7 |
-| 360d | 2025-10-16 | 0 | 7 | 3 | 9 | 37 | 35 |
-| last720d | 2024-10-21 | 0 | 7 | 3 | 34 | 55 | 56 |
+| 30d | 2026-09-12 | 0 | 0 | 2 | 0 | 1 | 1 |
+| last60d | 2026-08-13 | 0 | 0 | 2 | 0 | 7 | 1 |
+| 90d | 2026-07-14 | 0 | 3 | 2 | 1 | 12 | 3 |
+| last180d | 2026-04-15 | 0 | 5 | 2 | 1 | 19 | 8 |
+| 360d | 2025-10-17 | 0 | 8 | 2 | 10 | 36 | 33 |
+| last720d | 2024-10-22 | 0 | 8 | 2 | 35 | 54 | 57 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:44:09Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:12:00Z._
