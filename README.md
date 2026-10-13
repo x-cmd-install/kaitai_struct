@@ -27,9 +27,9 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/23 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -39,22 +39,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,699 · **Forks**: 210 · **Open issues**: 1,262 · **Contributors**: 16
+- **Stars**: 4,702 · **Forks**: 210 · **Open issues**: 1,262 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 18 · **Open PRs**: 7 · **Closed issues**: 740 · **Open issues**: 522 · **Commits**: 1050
+- **Releases**: 0 · **Merged PRs**: 19 · **Open PRs**: 6 · **Closed issues**: 740 · **Open issues**: 522 · **Commits**: 1051
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-08-13 | 0 | 0 | 2 | 0 | 7 | 1 |
-| 90d | 2026-07-14 | 0 | 3 | 2 | 1 | 12 | 3 |
-| last180d | 2026-04-15 | 0 | 5 | 2 | 1 | 19 | 8 |
-| 360d | 2025-10-17 | 0 | 8 | 2 | 10 | 36 | 33 |
-| last720d | 2024-10-22 | 0 | 8 | 2 | 35 | 54 | 57 |
+| 30d | 2026-09-13 | 0 | 1 | 1 | 0 | 1 | 2 |
+| last60d | 2026-08-14 | 0 | 1 | 1 | 0 | 7 | 2 |
+| 90d | 2026-07-15 | 0 | 4 | 1 | 1 | 12 | 4 |
+| last180d | 2026-04-16 | 0 | 6 | 1 | 1 | 19 | 9 |
+| 360d | 2025-10-18 | 0 | 9 | 1 | 10 | 36 | 34 |
+| last720d | 2024-10-23 | 0 | 9 | 1 | 35 | 54 | 58 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:12:00Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:13:26Z._

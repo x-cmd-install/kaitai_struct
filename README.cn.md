@@ -27,9 +27,9 @@ x install kaitai_struct
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/23 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -39,22 +39,22 @@ x install kaitai_struct
 
 ## 流行度
 
-- **Star**: 4,699 · **Fork**: 210 · **开放 issue**: 1,262 · **贡献者**: 16
+- **Star**: 4,702 · **Fork**: 210 · **开放 issue**: 1,262 · **贡献者**: 16
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 18 · **开放 PR**: 7 · **已关闭 issue**: 740 · **开放 issue**: 522 · **提交数**: 1050
+- **发布数**: 0 · **已合并 PR**: 19 · **开放 PR**: 6 · **已关闭 issue**: 740 · **开放 issue**: 522 · **提交数**: 1051
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 2 | 0 | 1 | 1 |
-| last60d | 2026-08-13 | 0 | 0 | 2 | 0 | 7 | 1 |
-| 90d | 2026-07-14 | 0 | 3 | 2 | 1 | 12 | 3 |
-| last180d | 2026-04-15 | 0 | 5 | 2 | 1 | 19 | 8 |
-| 360d | 2025-10-17 | 0 | 8 | 2 | 10 | 36 | 33 |
-| last720d | 2024-10-22 | 0 | 8 | 2 | 35 | 54 | 57 |
+| 30d | 2026-09-13 | 0 | 1 | 1 | 0 | 1 | 2 |
+| last60d | 2026-08-14 | 0 | 1 | 1 | 0 | 7 | 2 |
+| 90d | 2026-07-15 | 0 | 4 | 1 | 1 | 12 | 4 |
+| last180d | 2026-04-16 | 0 | 6 | 1 | 1 | 19 | 9 |
+| 360d | 2025-10-18 | 0 | 9 | 1 | 10 | 36 | 34 |
+| last720d | 2024-10-23 | 0 | 9 | 1 | 35 | 54 | 58 |
 
 ## 改进这些数据
 
@@ -65,4 +65,4 @@ kaitai_struct 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T07:12:00Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T08:13:27Z._
