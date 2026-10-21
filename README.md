@@ -39,7 +39,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,717 · **Forks**: 211 · **Open issues**: 1,263 · **Contributors**: 17
+- **Stars**: 4,718 · **Forks**: 212 · **Open issues**: 1,263 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -49,12 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 4 | 0 | 0 | 2 | 7 |
-| last60d | 2026-08-21 | 0 | 4 | 0 | 0 | 8 | 7 |
-| 90d | 2026-07-22 | 0 | 7 | 0 | 1 | 9 | 9 |
-| last180d | 2026-04-23 | 0 | 8 | 0 | 1 | 19 | 11 |
-| 360d | 2025-10-25 | 0 | 12 | 0 | 10 | 35 | 39 |
-| last720d | 2024-10-30 | 0 | 12 | 0 | 34 | 55 | 64 |
+| 30d | 2026-09-21 | 0 | 3 | 0 | 0 | 2 | 7 |
+| last60d | 2026-08-22 | 0 | 4 | 0 | 0 | 5 | 7 |
+| 90d | 2026-07-23 | 0 | 7 | 0 | 1 | 9 | 9 |
+| last180d | 2026-04-24 | 0 | 8 | 0 | 1 | 19 | 11 |
+| 360d | 2025-10-26 | 0 | 12 | 0 | 10 | 35 | 39 |
+| last720d | 2024-10-31 | 0 | 12 | 0 | 34 | 55 | 64 |
 
 ## Improve this data
 
@@ -65,4 +65,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:57:28Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:51:10Z._
