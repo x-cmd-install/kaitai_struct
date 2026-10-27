@@ -27,8 +27,8 @@ Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -39,22 +39,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,719 · **Forks**: 212 · **Open issues**: 1,263 · **Contributors**: 17
+- **Stars**: 4,720 · **Forks**: 212 · **Open issues**: 1,263 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 5 · **Closed issues**: 740 · **Open issues**: 523 · **Commits**: 1057
+- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 7 · **Closed issues**: 740 · **Open issues**: 523 · **Commits**: 1057
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 3 | 0 | 0 | 2 | 7 |
-| last60d | 2026-08-27 | 0 | 4 | 0 | 0 | 4 | 7 |
-| 90d | 2026-07-28 | 0 | 5 | 0 | 0 | 9 | 7 |
-| last180d | 2026-04-29 | 0 | 8 | 0 | 1 | 19 | 10 |
-| 360d | 2025-10-31 | 0 | 12 | 0 | 10 | 35 | 39 |
-| last720d | 2024-11-05 | 0 | 12 | 0 | 33 | 55 | 64 |
+| 30d | 2026-09-27 | 0 | 3 | 2 | 0 | 2 | 7 |
+| last60d | 2026-08-28 | 0 | 4 | 2 | 0 | 4 | 7 |
+| 90d | 2026-07-29 | 0 | 5 | 2 | 0 | 9 | 7 |
+| last180d | 2026-04-30 | 0 | 8 | 2 | 1 | 19 | 10 |
+| 360d | 2025-11-01 | 0 | 12 | 2 | 10 | 35 | 39 |
+| last720d | 2024-11-06 | 0 | 12 | 2 | 33 | 55 | 64 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:52:01Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:15:51Z._
