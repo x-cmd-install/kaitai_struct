@@ -39,26 +39,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,727 · **Forks**: 213 · **Open issues**: 1,263 · **Contributors**: 17
+- **Stars**: 4,727 · **Forks**: 213 · **Open issues**: 1,264 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 8 · **Closed issues**: 740 · **Open issues**: 523 · **Commits**: 1057
+- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 8 · **Closed issues**: 740 · **Open issues**: 524 · **Commits**: 1057
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 3 | 3 | 0 | 2 | 7 |
-| last60d | 2026-09-02 | 0 | 4 | 3 | 0 | 3 | 7 |
-| 90d | 2026-08-03 | 0 | 5 | 3 | 0 | 9 | 7 |
-| last180d | 2026-05-05 | 0 | 8 | 3 | 1 | 18 | 10 |
-| 360d | 2025-11-06 | 0 | 12 | 3 | 10 | 35 | 38 |
-| last720d | 2024-11-11 | 0 | 12 | 3 | 33 | 55 | 64 |
+| 30d | 2026-10-03 | 0 | 3 | 3 | 0 | 3 | 7 |
+| last60d | 2026-09-03 | 0 | 4 | 3 | 0 | 4 | 7 |
+| 90d | 2026-08-04 | 0 | 5 | 3 | 0 | 10 | 7 |
+| last180d | 2026-05-06 | 0 | 8 | 3 | 1 | 19 | 10 |
+| 360d | 2025-11-07 | 0 | 12 | 3 | 10 | 36 | 38 |
+| last720d | 2024-11-12 | 0 | 12 | 3 | 33 | 56 | 64 |
 
 ## Distribution status
 
-Reported by **107** distros on [repology.org](https://repology.org/project/kaitai_struct). **38** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
+Reported by **107** distros on [repology.org](https://repology.org/project/kaitai_struct). **36** are ✅ on the latest upstream release, **70** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -70,7 +70,7 @@ Reported by **107** distros on [repology.org](https://repology.org/project/kaita
 | Arch | `0.11` | ✅ latest |
 | Homebrew | `0.11` | ✅ latest |
 | Nix unstable | `0.11` | ✅ latest |
-| Void | `0.10` | ⚠️ outdated |
+| Void | `0.11` | ✅ latest |
 | Alpine edge | `0.10` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.11` | ✅ latest |
 
@@ -83,4 +83,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:18:03Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:31:41Z._

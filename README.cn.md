@@ -39,26 +39,26 @@ x install kaitai_struct
 
 ## 流行度
 
-- **Star**: 4,727 · **Fork**: 213 · **开放 issue**: 1,263 · **贡献者**: 17
+- **Star**: 4,727 · **Fork**: 213 · **开放 issue**: 1,264 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 22 · **开放 PR**: 8 · **已关闭 issue**: 740 · **开放 issue**: 523 · **提交数**: 1057
+- **发布数**: 0 · **已合并 PR**: 22 · **开放 PR**: 8 · **已关闭 issue**: 740 · **开放 issue**: 524 · **提交数**: 1057
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 3 | 3 | 0 | 2 | 7 |
-| last60d | 2026-09-02 | 0 | 4 | 3 | 0 | 3 | 7 |
-| 90d | 2026-08-03 | 0 | 5 | 3 | 0 | 9 | 7 |
-| last180d | 2026-05-05 | 0 | 8 | 3 | 1 | 18 | 10 |
-| 360d | 2025-11-06 | 0 | 12 | 3 | 10 | 35 | 38 |
-| last720d | 2024-11-11 | 0 | 12 | 3 | 33 | 55 | 64 |
+| 30d | 2026-10-03 | 0 | 3 | 3 | 0 | 3 | 7 |
+| last60d | 2026-09-03 | 0 | 4 | 3 | 0 | 4 | 7 |
+| 90d | 2026-08-04 | 0 | 5 | 3 | 0 | 10 | 7 |
+| last180d | 2026-05-06 | 0 | 8 | 3 | 1 | 19 | 10 |
+| 360d | 2025-11-07 | 0 | 12 | 3 | 10 | 36 | 38 |
+| last720d | 2024-11-12 | 0 | 12 | 3 | 33 | 56 | 64 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/kaitai_struct) 上共有 **107** 个发行版报告此项目。**38** 个 ✅ 已是最新上游版本，**68** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/kaitai_struct) 上共有 **107** 个发行版报告此项目。**36** 个 ✅ 已是最新上游版本，**70** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -70,7 +70,7 @@ x install kaitai_struct
 | Arch | `0.11` | ✅ latest |
 | Homebrew | `0.11` | ✅ latest |
 | Nix unstable | `0.11` | ✅ latest |
-| Void | `0.10` | ⚠️ outdated |
+| Void | `0.11` | ✅ latest |
 | Alpine edge | `0.10` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.11` | ✅ latest |
 
@@ -83,4 +83,4 @@ kaitai_struct 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T07:18:04Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T07:31:42Z._
