@@ -21,16 +21,6 @@ Total: **4** lines of code across **3** files in the top 5 languages.
 | Sh | 4 | 5 | 2 | 1 |
 | Markdown | 0 | 103 | 42 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.8 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/kaitai-io/kaitai_struct>
@@ -39,22 +29,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,739 · **Forks**: 214 · **Open issues**: 1,264 · **Contributors**: 17
+- **Stars**: 4,740 · **Forks**: 214 · **Open issues**: 1,265 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 8 · **Closed issues**: 740 · **Open issues**: 524 · **Commits**: 1057
+- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 8 · **Closed issues**: 740 · **Open issues**: 525 · **Commits**: 1057
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-09-17 | 0 | 4 | 3 | 0 | 3 | 7 |
-| 90d | 2026-08-18 | 0 | 4 | 3 | 0 | 9 | 7 |
-| last180d | 2026-05-20 | 0 | 8 | 3 | 1 | 18 | 10 |
-| 360d | 2025-11-21 | 0 | 12 | 3 | 10 | 36 | 31 |
-| last720d | 2024-11-26 | 0 | 12 | 3 | 33 | 55 | 64 |
+| 30d | 2026-10-18 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last60d | 2026-09-18 | 0 | 4 | 3 | 0 | 4 | 7 |
+| 90d | 2026-08-19 | 0 | 4 | 3 | 0 | 10 | 7 |
+| last180d | 2026-05-21 | 0 | 8 | 3 | 1 | 19 | 10 |
+| 360d | 2025-11-22 | 0 | 12 | 3 | 10 | 37 | 31 |
+| last720d | 2024-11-27 | 0 | 12 | 3 | 33 | 56 | 64 |
 
 ## Distribution status
 
@@ -83,4 +73,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:43:29Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:52:29Z._
