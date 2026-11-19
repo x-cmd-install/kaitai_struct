@@ -29,7 +29,7 @@ Total: **4** lines of code across **3** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,740 · **Forks**: 214 · **Open issues**: 1,265 · **Contributors**: 17
+- **Stars**: 4,743 · **Forks**: 214 · **Open issues**: 1,265 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -39,16 +39,16 @@ Total: **4** lines of code across **3** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last60d | 2026-09-18 | 0 | 4 | 3 | 0 | 4 | 7 |
-| 90d | 2026-08-19 | 0 | 4 | 3 | 0 | 10 | 7 |
-| last180d | 2026-05-21 | 0 | 8 | 3 | 1 | 19 | 10 |
-| 360d | 2025-11-22 | 0 | 12 | 3 | 10 | 37 | 31 |
-| last720d | 2024-11-27 | 0 | 12 | 3 | 33 | 56 | 64 |
+| 30d | 2026-10-20 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last60d | 2026-09-20 | 0 | 4 | 3 | 0 | 4 | 7 |
+| 90d | 2026-08-21 | 0 | 4 | 3 | 0 | 10 | 7 |
+| last180d | 2026-05-23 | 0 | 8 | 3 | 1 | 19 | 10 |
+| 360d | 2025-11-24 | 0 | 12 | 3 | 9 | 37 | 31 |
+| last720d | 2024-11-29 | 0 | 12 | 3 | 33 | 56 | 64 |
 
 ## Distribution status
 
-Reported by **109** distros on [repology.org](https://repology.org/project/kaitai_struct). **40** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
+Reported by **108** distros on [repology.org](https://repology.org/project/kaitai_struct). **40** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -60,7 +60,7 @@ Reported by **109** distros on [repology.org](https://repology.org/project/kaita
 | Arch | `0.11` | ✅ latest |
 | Homebrew | `0.11` | ✅ latest |
 | Nix unstable | `0.11` | ✅ latest |
-| Void | `0.11` | ✅ latest |
+| Void | `0.10` | ⚠️ outdated |
 | Alpine edge | `0.10` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.11` | ✅ latest |
 
@@ -73,4 +73,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:52:29Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:27:57Z._
