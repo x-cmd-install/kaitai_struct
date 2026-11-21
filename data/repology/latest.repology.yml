@@ -1,16 +1,3 @@
-- repo: kali_rolling
-  subrepo: main
-  srcname: python-kaitaistruct
-  binnames:
-    - python3-kaitaistruct
-  visiblename: python-kaitaistruct
-  version: "0.11"
-  origversion: 0.11-1
-  status: newest
-  maintainers:
-    - bblough@debian.org
-  categories:
-    - misc
 - repo: alpine_3_18
   subrepo: community
   srcname: py3-kaitaistruct
@@ -306,6 +293,18 @@
   licenses:
     - MIT
 - repo: aur
+  srcname: ruby-kaitai-struct
+  binname: ruby-kaitai-struct
+  visiblename: ruby-kaitai-struct
+  version: "0.11"
+  origversion: 0.11-1
+  status: newest
+  summary: 'Kaitai Struct: runtime library for Ruby'
+  maintainers:
+    - sasha0552@aur
+  licenses:
+    - MIT
+- repo: aur
   srcname: kaitai-struct-compiler
   binname: kaitai-struct-compiler
   visiblename: kaitai-struct-compiler
@@ -329,18 +328,6 @@
     - jake@aur
   licenses:
     - GPL-3.0-or-later
-- repo: aur
-  srcname: ruby-kaitai-struct
-  binname: ruby-kaitai-struct
-  visiblename: ruby-kaitai-struct
-  version: "0.11"
-  origversion: 0.11-1
-  status: newest
-  summary: 'Kaitai Struct: runtime library for Ruby'
-  maintainers:
-    - sasha0552@aur
-  licenses:
-    - MIT
 - repo: aur
   srcname: kaitai-struct-compiler-git
   binname: kaitai-struct-compiler-git
@@ -429,18 +416,6 @@
     - bblough@debian.org
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: python-kaitaistruct
-  binnames:
-    - python-kaitaistruct
-    - python3-kaitaistruct
-  visiblename: python-kaitaistruct
-  version: "0.8"
-  origversion: 0.8-1
-  status: outdated
-  maintainers:
-    - seb@debian.org
 - repo: deepin_25
   subrepo: community
   srcname: python-kaitaistruct
@@ -526,6 +501,19 @@
   origversion: null
   status: newest
   summary: Compiler for generating binary data parsers
+- repo: kali_rolling
+  subrepo: main
+  srcname: python-kaitaistruct
+  binnames:
+    - python3-kaitaistruct
+  visiblename: python-kaitaistruct
+  version: "0.11"
+  origversion: 0.11-1
+  status: newest
+  maintainers:
+    - bblough@debian.org
+  categories:
+    - misc
 - repo: liguros_stable
   srcname: dev-python/kaitaistruct
   visiblename: dev-python/kaitaistruct
@@ -592,6 +580,20 @@
     - nomaintainer@macports.org
   licenses:
     - MIT
+  categories:
+    - python
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: python-kaitaistruct
+  binnames:
+    - python-kaitaistruct
+    - python3-kaitaistruct
+  visiblename: python-kaitaistruct
+  version: "0.8"
+  origversion: 0.8-1
+  status: outdated
+  maintainers:
+    - seb@debian.org
   categories:
     - python
 - repo: macports
@@ -745,6 +747,19 @@
   licenses:
     - GPL-3.0-only
 - repo: nix_stable_24_11
+  srcname: python312Packages.kaitaistruct
+  visiblename: python3.12-kaitaistruct
+  version: "0.10"
+  origversion: null
+  status: outdated
+  summary: 'Kaitai Struct: runtime library for Python'
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+  categories:
+    - python312Packages
+- repo: nix_stable_24_11
   srcname: python311Packages.kaitaistruct
   visiblename: python3.11-kaitaistruct
   version: "0.10"
@@ -757,7 +772,7 @@
     - MIT
   categories:
     - python311Packages
-- repo: nix_stable_24_11
+- repo: nix_stable_25_05
   srcname: python312Packages.kaitaistruct
   visiblename: python3.12-kaitaistruct
   version: "0.10"
@@ -770,17 +785,6 @@
     - MIT
   categories:
     - python312Packages
-- repo: nix_stable_25_05
-  srcname: kaitai-struct-compiler
-  visiblename: kaitai-struct-compiler
-  version: "0.10"
-  origversion: null
-  status: outdated
-  summary: Compiler to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
-  maintainers:
-    - consulting@qube.email
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_25_05
   srcname: python313Packages.kaitaistruct
   visiblename: python3.13-kaitaistruct
@@ -795,18 +799,16 @@
   categories:
     - python313Packages
 - repo: nix_stable_25_05
-  srcname: python312Packages.kaitaistruct
-  visiblename: python3.12-kaitaistruct
+  srcname: kaitai-struct-compiler
+  visiblename: kaitai-struct-compiler
   version: "0.10"
   origversion: null
   status: outdated
-  summary: 'Kaitai Struct: runtime library for Python'
+  summary: Compiler to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
   maintainers:
-    - fallback-mnt-nix@repology
+    - consulting@qube.email
   licenses:
-    - MIT
-  categories:
-    - python312Packages
+    - GPL-3.0-only
 - repo: nix_stable_25_11
   srcname: python312Packages.kaitaistruct
   visiblename: python3.12-kaitaistruct
@@ -834,18 +836,16 @@
   categories:
     - python313Packages
 - repo: nix_stable_26_05
-  srcname: python313Packages.kaitaistruct
-  visiblename: kaitaistruct
+  srcname: kaitai-struct-compiler
+  visiblename: kaitai-struct-compiler
   version: "0.11"
   origversion: null
   status: newest
-  summary: 'Kaitai Struct: runtime library for Python'
+  summary: Compiler to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
   maintainers:
-    - fallback-mnt-nix@repology
+    - consulting@qube.email
   licenses:
-    - MIT
-  categories:
-    - python313Packages
+    - GPL-3.0-only
 - repo: nix_stable_26_05
   srcname: python314Packages.kaitaistruct
   visiblename: kaitaistruct
@@ -860,16 +860,31 @@
   categories:
     - python314Packages
 - repo: nix_stable_26_05
-  srcname: kaitai-struct-compiler
-  visiblename: kaitai-struct-compiler
+  srcname: python313Packages.kaitaistruct
+  visiblename: kaitaistruct
   version: "0.11"
   origversion: null
   status: newest
-  summary: Compiler to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
+  summary: 'Kaitai Struct: runtime library for Python'
   maintainers:
-    - consulting@qube.email
+    - fallback-mnt-nix@repology
   licenses:
-    - GPL-3.0-only
+    - MIT
+  categories:
+    - python313Packages
+- repo: nix_unstable
+  srcname: python313Packages.kaitaistruct
+  visiblename: kaitaistruct
+  version: "0.11"
+  origversion: null
+  status: newest
+  summary: 'Kaitai Struct: runtime library for Python'
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
 - repo: nix_unstable
   srcname: python314Packages.kaitaistruct
   visiblename: kaitaistruct
@@ -894,19 +909,6 @@
     - consulting@qube.email
   licenses:
     - GPL-3.0-only
-- repo: nix_unstable
-  srcname: python313Packages.kaitaistruct
-  visiblename: kaitaistruct
-  version: "0.11"
-  origversion: null
-  status: newest
-  summary: 'Kaitai Struct: runtime library for Python'
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
 - repo: npackd_stable
   srcname: kaitai-struct
   binname: kaitai-struct
@@ -1111,20 +1113,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: python-kaitaistruct
-  binnames:
-    - python-kaitaistruct
-    - python3-kaitaistruct
-  visiblename: python-kaitaistruct
-  version: "0.8"
-  origversion: 0.8-1
-  status: outdated
-  maintainers:
-    - seb@debian.org
-  categories:
-    - python
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: python-kaitaistruct
