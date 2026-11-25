@@ -49,30 +49,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last60d | 2026-09-25 | 0 | 3 | 3 | 0 | 4 | 7 |
-| 90d | 2026-08-26 | 0 | 4 | 3 | 0 | 6 | 7 |
-| last180d | 2026-05-28 | 0 | 8 | 3 | 1 | 18 | 10 |
-| 360d | 2025-11-29 | 0 | 12 | 3 | 9 | 36 | 31 |
-| last720d | 2024-12-04 | 0 | 12 | 3 | 33 | 56 | 64 |
-
-## Distribution status
-
-Reported by **107** distros on [repology.org](https://repology.org/project/kaitai_struct). **40** are ✅ on the latest upstream release, **66** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.11` | ✅ latest |
-| Debian 14 | `0.11` | ✅ latest |
-| Debian 13 | `0.10` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.11` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.10` | ⚠️ outdated |
-| Arch | `0.11` | ✅ latest |
-| Homebrew | `0.11` | ✅ latest |
-| Nix unstable | `0.11` | ✅ latest |
-| Void | `0.10` | ⚠️ outdated |
-| Alpine edge | `0.10` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.11` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 2 | 0 |
+| last60d | 2026-09-26 | 0 | 3 | 3 | 0 | 4 | 7 |
+| 90d | 2026-08-27 | 0 | 4 | 3 | 0 | 6 | 7 |
+| last180d | 2026-05-29 | 0 | 8 | 3 | 1 | 18 | 10 |
+| 360d | 2025-11-30 | 0 | 12 | 3 | 9 | 36 | 31 |
+| last720d | 2024-12-05 | 0 | 12 | 3 | 33 | 56 | 64 |
 
 ## Improve this data
 
@@ -83,4 +65,4 @@ Install metadata for kaitai_struct lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:44:03Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:22:40Z._
